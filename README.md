@@ -1,5 +1,5 @@
 
-# Hi I'm Jorge ![Hi](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)
+# Hi I'm Jorge ![Hi](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif | width=10)
              
 
 I am an enthusiastic student of information technologies.
