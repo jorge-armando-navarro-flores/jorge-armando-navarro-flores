@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Jorge</h1>
+
 I am an enthusiastic student of information technologies.
 
 I love coding anywhere
@@ -8,14 +10,14 @@ I have a special interest in mobile applications and artificial intelligence abo
 I really think that technology is a fantastic way of improving the world
 
 
-telescope I’m currently working on flutter BMI calculator
+- 🔭 I’m currently working on flutter BMI calculator
 
-seedling I’m currently learning flutter, python and machine learning
+- 🌱 I’m currently learning flutter, python and machine learning
 
-dancers I’m looking to collaborate on mobile aplications
+- 👯 I’m looking to collaborate on mobile aplications
 
-man_technologist All of my projects are available at https://github.com/jorge-armando-navarro-flores
+- 👨‍💻 All of my projects are available at https://github.com/jorge-armando-navarro-flores
 
-mailbox How to reach me jorge.armando.navarro.flores@gmail.com
+- 📫 How to reach me jorge.armando.navarro.flores@gmail.com
 
 
