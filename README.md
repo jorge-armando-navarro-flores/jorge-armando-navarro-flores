@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jorge</h1>
+<<h1 align="center">Hi I'm Jorge
+    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
+              width="30px">
+    </h2></h1>
 
 I am an enthusiastic student of information technologies.
 
