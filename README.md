@@ -1,6 +1,6 @@
 
 <h1> Hi I'm Jorge 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30">
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50">
 </h1>
              
 
