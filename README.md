@@ -1,6 +1,8 @@
 
 # Hi I'm Jorge 
-![Hi](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif){:height="700px" width="400px"}
+![Hi](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)
+
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="400" height="790">
              
 
 I am an enthusiastic student of information technologies.
