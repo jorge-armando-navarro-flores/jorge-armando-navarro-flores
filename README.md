@@ -23,8 +23,11 @@ I really think that technology is a fantastic way of improving the world </h3>
 - 👨‍💻 All of my projects are available at https://github.com/jorge-armando-navarro-flores
 
 - 📫 How to reach me jorge.armando.navarro.flores@gmail.com
+
+<h2> My skills and tools </h2>
 <p>
   
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="firebase" width="40" height="40"/> 
   <!--<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
