@@ -24,9 +24,11 @@ I really think that technology is a fantastic way of improving the world </h3>
 
 - 📫 How to reach me jorge.armando.navarro.flores@gmail.com
 <p>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="firebase" width="40" height="40"/> 
+  <!--<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> -->
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-armando-navarro-flores&layout=compact&hide=html,Jupyter Notebook" alt="akhilgkrishnan" />
