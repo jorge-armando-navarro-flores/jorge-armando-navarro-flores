@@ -2,7 +2,7 @@
 # Hi I'm Jorge 
 ![Hi](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="400" height="790">
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10">
              
 
 I am an enthusiastic student of information technologies.
