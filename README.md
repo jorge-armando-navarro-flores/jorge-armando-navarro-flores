@@ -24,4 +24,4 @@ I really think that technology is a fantastic way of improving the world </h3>
 
 - 📫 How to reach me jorge.armando.navarro.flores@gmail.com
 
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-armando-navarro-flores&layout=compact&hide=html" alt="akhilgkrishnan" />
