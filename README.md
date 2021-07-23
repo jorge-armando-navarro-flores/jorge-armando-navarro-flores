@@ -14,7 +14,7 @@ I have a special interest in mobile applications and artificial intelligence abo
 I really think that technology is a fantastic way of improving the world </h3>
 
 
-- 🔭 I’m currently working on flutter BMI calculator
+- 🔭 I’m currently working on flutter anagram game
 
 - 🌱 I’m currently learning flutter, python and machine learning
 
