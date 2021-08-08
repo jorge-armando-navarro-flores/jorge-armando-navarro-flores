@@ -16,7 +16,7 @@ I really think that technology is a fantastic way of improving the world </h3>
 
 - 🔭 I’m currently working on flutter anagram game
 
-- 🌱 I’m currently learning flutter, python and machine learning
+- 🌱 I’m currently learning python and flutter
 
 - 👯 I’m looking to collaborate on mobile aplications
 
