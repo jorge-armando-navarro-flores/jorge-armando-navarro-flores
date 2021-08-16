@@ -11,7 +11,7 @@ I am a good self-learner so I constantly look for coding courses in various fiel
 
 I have a special interest in mobile applications and artificial intelligence above all in new and great technologies like flutter, python, and tensorflow so I am actually taking courses about these themes.
 
-I really think that technology is a fantastic way of improving the world </h3>
+I believe technology is a fantastic and funny way of improving the world </h3>
 
 
 - 🔭 I’m currently working on flutter anagram game
