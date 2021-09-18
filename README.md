@@ -4,7 +4,7 @@
 </h1>
              
 
-<h3>I am an enthusiastic student of information technologies.
+<h3>I am an enthusiastic information technology student.
 
 I love coding anywhere
 I am a good self-learner so I constantly look for coding courses in various fields.
@@ -14,7 +14,7 @@ I have a special interest in mobile applications and artificial intelligence abo
 I believe technology is a fantastic and funny way of improving the world </h3>
 
 
-- 🔭 I’m currently working on flutter anagram game
+- 🔭 I’m currently working on flutter ghost game
 
 - 🌱 I’m currently learning python and flutter
 
