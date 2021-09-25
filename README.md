@@ -18,7 +18,7 @@ I believe technology is a fantastic and funny way of improving the world </h3>
 
 - 🌱 I’m currently learning python and flutter
 
-- 👯 I’m looking to collaborate on mobile aplications
+- 👯 I’m looking to collaborate on mobile and web development
 
 - 👨‍💻 All of my projects are available at https://github.com/jorge-armando-navarro-flores
 
