@@ -7,9 +7,9 @@
 <h3>I am an enthusiastic information technology student.
 
 I love coding anywhere
-I am a good self-learner so I constantly look for coding courses in various fields.
+I am a good self-learner so I constantly look for coding courses in various fields.<br>
 
-I have a special interest in mobile applications and artificial intelligence above all in new and great technologies like flutter, python, and tensorflow so I am actually taking courses about these themes.
+I have a special interest in mobile applications, artificial intelligence and automation, above all in new and great technologies like flutter, python 3, and tensorflow so I am actually taking courses about these themes or I plan to take them.
 
 I believe technology is a fantastic and funny way of improving the world </h3>
 
