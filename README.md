@@ -6,7 +6,7 @@
 
 <h3>I am an enthusiastic information technology student.
 
-I love coding anywhere
+I love coding anywhere <br>
 I am a good self-learner so I constantly look for coding courses in various fields.<br>
 
 I have a special interest in mobile applications, artificial intelligence and automation, above all in new and great technologies like flutter, python 3, and tensorflow so I am actually taking courses about these themes or I plan to take them.
@@ -34,4 +34,4 @@ I believe technology is a fantastic and funny way of improving the world </h3>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> -->
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-armando-navarro-flores&layout=compact&hide=html,Jupyter Notebook, CMake" alt="akhilgkrishnan" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-armando-navarro-flores&layout=compact&hide=html,Jupyter Notebook, CMake,Swift" alt="akhilgkrishnan" />
