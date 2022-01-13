@@ -34,4 +34,4 @@ I believe technology is a fantastic and funny way of improving the world </h3>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> -->
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-armando-navarro-flores&layout=compact&hide=html,Jupyter Notebook, CMake" alt="akhilgkrishnan" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-armando-navarro-flores&layout=compact&hide=html,Jupyter Notebook, CMake,Swift" alt="akhilgkrishnan" />
