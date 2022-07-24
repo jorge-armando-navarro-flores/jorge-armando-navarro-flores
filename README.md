@@ -24,10 +24,11 @@ I believe technology is a fantastic and funny way of improving the world </h3>
 
 - 📫 How to reach me jorge.armando.navarro.flores@gmail.com
 
-<h2> My skills and tools </h2>
+<h2> My tools </h2>
 <p>
   
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="firebase" width="40" height="40"/> 
   <!--<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
