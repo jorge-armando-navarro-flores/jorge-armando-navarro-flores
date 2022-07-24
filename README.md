@@ -27,8 +27,10 @@ I believe technology is a fantastic and funny way of improving the world </h3>
 <h2> My tools </h2>
 <p>
   
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="pandas" width="40" height="40"/>
+  <img src="https://blog.kakaocdn.net/dn/4UIIH/btqIH4tfonl/LyCOqYkmqKo1gFrogryni1/img.png" alt="pandas" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="firebase" width="40" height="40"/> 
   <!--<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
