@@ -12,9 +12,9 @@ I believe technology is a fantastic and funny way of improving the world </h3>
 
 - 🔭 I’m currently studying at University of Guadalajara in Mexico
 
-- 🌱 I’m currently learning macchine learning and deep learning
+- 🌱 I’m currently learning machine learning and deep learning
 
-- 👯 I’m looking to collaborate on macchine learning and deep learning projects
+- 👯 I’m looking to collaborate on machine learning and deep learning projects
 
 - 👨‍💻 All of my projects are available at https://github.com/jorge-armando-navarro-flores
 
@@ -30,8 +30,8 @@ I believe technology is a fantastic and funny way of improving the world </h3>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="selenium" width="75" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  
-   
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-armando-navarro-flores&layout=compact&hide=html,Jupyter Notebook, CMake,Swift,SCSS,CSS" alt="my programming languajes" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-armando-navarro-flores&layout=compact&hide=html,Jupyter Notebook, CMake,Swift,SCSS,CSS" alt="my programming languajes" /> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-armando-navarro-flores&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
