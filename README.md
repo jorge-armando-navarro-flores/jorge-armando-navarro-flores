@@ -34,4 +34,4 @@ I believe technology is a fantastic and funny way of improving the world </h3>
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-armando-navarro-flores&layout=compact&hide=html,Jupyter Notebook, CMake,Swift,SCSS,CSS" alt="my programming languajes" /> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-armando-navarro-flores&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-armando-navarro-flores&hide=html,CSS,Jupyter%20Notebook,SCSS,CMake)](https://github.com/anuraghazra/github-readme-stats)
