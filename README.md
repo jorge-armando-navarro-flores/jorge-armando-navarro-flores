@@ -4,8 +4,8 @@
 </h1>
              
 
-<h3>I am a passionate information technology student who thrives on solving challenging and engaging IT problems. My particular interests lie in the realms of automation and integrating powerful APIs and technologies, such as the OpenAI API and TensorFlow Hub. I am driven to create exceptional products that can automate our daily tasks, enhancing convenience and improving our lives.
-
+<h3>I am a passionate information technology student who thrives on solving challenging and engaging IT problems. My particular interests lie in the realms of automation and integrating powerful APIs and technologies, such as the OpenAI API, TensorFlow Hub, and cloud services AI APIs. I am driven to create exceptional products that can automate our daily tasks, enhancing convenience and improving our lives.
+<br><br>
 I firmly believe that technology serves as a remarkable and enjoyable means of advancing the world for the better.</h3>
 
 
