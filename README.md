@@ -4,10 +4,9 @@
 </h1>
              
 
-<h3>I am an enthusiastic information technology student who loves to solve challenging and funny IT problems.
-I have a special interest in machine learning, deep learning and data science, above all in new and great technologies like python and tensorflow.
+<h3>I am a passionate information technology student who thrives on solving challenging and engaging IT problems. My particular interests lie in the realms of automation and integrating powerful APIs and technologies, such as the OpenAI API and TensorFlow Hub. I am driven to create exceptional products that can automate our daily tasks, enhancing convenience and improving our lives.
 
-I believe technology is a fantastic and funny way of improving the world </h3>
+I firmly believe that technology serves as a remarkable and enjoyable means of advancing the world for the better.</h3>
 
 
 - 🔭 I’m currently studying at University of Guadalajara in Mexico
