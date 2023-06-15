@@ -11,9 +11,9 @@ I firmly believe that technology serves as a remarkable and enjoyable means of a
 
 - 🔭 I’m currently studying at University of Guadalajara in Mexico
 
-- 🌱 I’m currently learning machine learning and deep learning
+- 🌱 I’m currently automation and API integration
 
-- 👯 I’m looking to collaborate on machine learning and deep learning projects
+- 👯 I’m looking to collaborate on daily life automation tasks
 
 - 👨‍💻 All of my projects are available at https://github.com/jorge-armando-navarro-flores
 
