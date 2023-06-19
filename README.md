@@ -13,7 +13,7 @@ Technology serves as a great and enjoyable means of improving the world.</h3>
 
 - 🌱 I’m currently in automation with AI
 
-- 👯 I’m looking to collaborate on daily life automation and sustainable development tasks
+- 👯 I’m looking to collaborate on the automation of daily life and sustainable development tasks
 
 - 👨‍💻 All of my projects are available at https://github.com/jorge-armando-navarro-flores
 
