@@ -4,16 +4,16 @@
 </h1>
              
 
-<h3>I am a passionate information technology student who thrives on solving challenging and engaging IT problems. My particular interests lie in the realms of automation and integrating powerful APIs and technologies, such as the OpenAI API, TensorFlow Hub, and cloud services AI APIs. I am driven to create exceptional products that can automate our daily tasks, enhancing convenience and improving our lives.
+<h3>I am a passionate information technology student who thrives on solving challenging and engaging IT problems. My particular interests lie in the realms of automation especially automation with artificial intelligence, I would like to integrate powerful APIs and technologies, such as the OpenAI API, TensorFlow Hub, and AI cloud services like Google AI. I am driven to create exceptional products that can automate our daily tasks and solve challenges, enhancing convenience and improving our lives.
 <br><br>
-I firmly believe that technology serves as a remarkable and enjoyable means of advancing the world for the better.</h3>
+Technology serves as a great and enjoyable means of improving the world.</h3>
 
 
-- 🔭 I’m currently studying at University of Guadalajara in Mexico
+- 🔭 I’m currently studying at Universidad De Guadalajara in Mexico
 
-- 🌱 I’m currently automation and API integration
+- 🌱 I’m currently in automation with AI
 
-- 👯 I’m looking to collaborate on daily life automation tasks
+- 👯 I’m looking to collaborate on daily life automation and sustainable development tasks
 
 - 👨‍💻 All of my projects are available at https://github.com/jorge-armando-navarro-flores
 
