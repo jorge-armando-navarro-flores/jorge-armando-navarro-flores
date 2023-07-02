@@ -11,9 +11,9 @@ Technology serves as a great and enjoyable means of improving the world.</h3>
 
 - 🔭 I’m currently studying at Universidad De Guadalajara in Mexico
 
-- 🌱 I’m currently in automation with AI
+- 🌱 I’m currently learning AI, machine learning and deep learning.
 
-- 👯 I’m looking to collaborate on the automation of daily life and sustainable development tasks
+- 👯 I’m looking to collaborate on AI, machine learning and deep learning pyojects.
 
 - 👨‍💻 All of my projects are available at https://github.com/jorge-armando-navarro-flores
 
