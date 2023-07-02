@@ -4,7 +4,7 @@
 </h1>
              
 
-<h3>I am a passionate information technology student who thrives on solving challenging and engaging IT problems. My particular interests lie in the realms of automation especially automation with artificial intelligence, I would like to integrate powerful APIs and technologies, such as the OpenAI API, TensorFlow Hub, and AI cloud services like Google AI. I am driven to create exceptional products that can automate our daily tasks and solve challenges, enhancing convenience and improving our lives.
+<h3>I'm a passionate IT student with a love for solving challenging problems. I have a special interest in machine learning, deep learning, and data science, with a focus on Python, TensorFlow, PyTorch, and JAX. I believe technology is an exciting tool for improving the world.
 <br><br>
 Technology serves as a great and enjoyable means of improving the world.</h3>
 
