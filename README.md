@@ -1,8 +1,8 @@
 
-<h1>🚀 Passionate IT Student | AI Enthusiast | Future-Ready Innovator 🤖
-<!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50"> -->
+<h1>Hi I'm Jorge
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50">
 </h1>
- <br><br>
+<h2>🚀 Passionate IT Student | AI Enthusiast | Future-Ready Innovator 🤖</h2>
 
 👋 Hi there! I'm Jorge Armando Navarro Flores, an ambitious IT student deeply passionate about the transformative power of Artificial Intelligence (AI). I'm on a relentless pursuit to explore the vast potential of AI and its profound impact on our world.
 
