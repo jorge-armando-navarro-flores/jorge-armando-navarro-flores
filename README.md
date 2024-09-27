@@ -38,4 +38,7 @@
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-armando-navarro-flores&layout=compact&hide=html,Jupyter Notebook, CMake,Swift,SCSS,CSS" alt="my programming languajes" /> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-armando-navarro-flores&hide=html,CSS,Jupyter%20Notebook,SCSS,CMake&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-armando-navarro-flores&hide=html,CSS,Jupyter%20Notebook,SCSS,CMake&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
+<!-- [![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorge-armando-navarro-flores)](https://github.com/anuraghazra/github-readme-stats) -->
+
