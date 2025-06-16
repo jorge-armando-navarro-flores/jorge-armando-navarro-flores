@@ -2,28 +2,17 @@
 <h1>Hi I'm Jorge
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50">
 </h1>
-<h2>🚀 Passionate IT Student | AI Enthusiast | Future-Ready Innovator 🤖</h2>
+<h2>🚀 Python AI Developer | LangGraph | FastAPI | LLMs</h2>
 
-👋 Hi there! I'm Jorge Armando Navarro Flores, an ambitious IT student deeply passionate about the transformative power of Artificial Intelligence (AI). I'm on a relentless pursuit to explore the vast potential of AI and its profound impact on our world.
+Skilled AI Python developer with a strong foundation in building intelligent backend systems using FastAPI, LangChain, LangGraph, and AI agents. I turn complex AI workflows into clean, production-ready applications—bringing LLMs to life through Retrieval-Augmented Generation (RAG), multi-agent orchestration, and API development.
 
-🔍 Deep Dive into AI: I dive headfirst into the world of AI, constantly seeking to expand my knowledge through hands-on projects, coursework, and staying updated with the latest advancements in the field.
+What sets me apart is my ability to learn fast, build independently, and ship real results. I've developed a growing portfolio of hands-on projects that solve real problems using modern AI tools—all backed by deep Python expertise and continuous learning from top-tier programs.
 
-💡 Innovative Problem Solver: My enthusiasm for AI extends beyond the theoretical. I love tackling real-world challenges and crafting innovative solutions harnessing the capabilities of AI and machine learning.
+I'm currently seeking opportunities to contribute to cutting-edge AI products, collaborate with experienced professionals, and continue growing as a backend AI developer.
 
-🤝 Collaborative Team Player: I thrive in collaborative environments, valuing diverse perspectives and actively contributing to team dynamics. I believe collective efforts drive exceptional outcomes.
+⚡ Whether you’re building AI agents, LLM-powered APIs, or backend services that need brains—I’m ready to jump in, contribute meaningfully, and grow with your team.
 
-🔧 Tech Stack: Proficient in Python, NumPy, and familiar with various AI frameworks and tools, I'm keen on leveraging these skills to create impactful AI-driven solutions.
-
-📚 Continuous Learner: Learning is a lifelong journey, and I'm committed to continuous growth, seeking new opportunities, courses, and experiences to further hone my AI expertise.
-
-🎯 Vision: My goal? To be at the forefront of innovation, contributing to AI-driven solutions that positively shape industries and society at large.
-
-🔑 Seeking Opportunities: I'm actively seeking opportunities to apply my skills and passion within a team where I can make a tangible difference and contribute to pioneering AI-driven initiatives.
-
-🌐 Let's Connect: If you're as excited about the potential of AI and innovation as I am, let's connect! I'm eager to explore collaborations, share insights, and contribute to cutting-edge projects.
-
-🚀 Are you ready to take the next step in AI innovation? Let's chat!
-
+If you're building smart systems with Python and AI—let’s connect!
 <h2> My tools </h2>
 <p>
   
